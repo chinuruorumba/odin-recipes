@@ -1,0 +1,25 @@
+.hero_title{
+    text-align: center;
+    font-size: 100px;
+    color: blue;
+    border: solid black 20px;
+    padding: 8px;
+    margin: 40px 40px;
+    font-family:'Times New Roman', Times, serif
+
+}
+
+.primary_link{
+    background-color: lightblue;
+    text-align: center;
+
+}
+
+.primary_text{
+    color: rgb(195, 78, 98);
+}
+
+.arrow{
+    text-align: center;
+    margin: 10px 356px;
+}
